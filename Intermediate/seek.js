@@ -1,8 +1,10 @@
 function destroyer(arr) {
   // Remove all the values
 	var allArg = Array.prototype.slice.call(arguments);
-	allArg.shift(0)
-
+	console.log(allArg);
+	console.log(arr);
+	allArg.shift(0);
+	console.log(allArg);
 	for (let j=0; j < allArg.length; j++){
 		console.log(100 + allArg[j]);
 		arr = arr.filter(e => e !== allArg[j]);
