@@ -20,20 +20,20 @@ Feel free to _Contribute_ with your own script with the programming language you
 
 - [x] **[Challenge #7](Intermediate/range.js)**: [Sum All Numbers in a Range :heavy_plus_sign:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range/) (freeCodeCamp)
 - [x] **[Challenge #8](Intermediate/seek.js)**: [Seek and Destroy :collision:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy/) (freeCodeCamp)
-- [ ] **Challenge #9**: [Pig Latin :pig:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/) (freeCodeCamp)
-- [ ] **Challenge #10**: [DNA Pairing :syringe:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing/) (freeCodeCamp) 
-- [ ] **Challenge #11**: [Convert HTML Entities :computer:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities/) (freeCodeCamp)
-- [ ] **Challenge #12**: [Sum All Primes :warning:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes/) (freeCodeCamp)
+- [x] **[Challenge #9](Intermediate/pig.js)**: [Pig Latin :pig:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/) (freeCodeCamp)
+- [x] **[Challenge #10](Intermediate/dna.js)**: [DNA Pairing :syringe:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing/) (freeCodeCamp) 
+- [x] **[Challenge #11](Intermediate/html.js)**: [Convert HTML Entities :computer:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities/) (freeCodeCamp)
+- [ ] **[Challenge #12]()**: [Sum All Primes :warning:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes/) (freeCodeCamp)
 
 # Advanced Challenges
 
-**Before you start**: Sign up to HackerRank and try solving the "[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)" challenge :squirrel:
+**[Before you start](Advance/first.js)**: Sign up to HackerRank and try solving the "[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)" challenge :squirrel:
 
-- [ ] **Challenge #13**: [A Very Big Sum :raised_hands:](https://www.hackerrank.com/challenges/a-very-big-sum/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #14**: [Plus Minus :arrow_lower_right:](https://www.hackerrank.com/challenges/plus-minus/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #15**: [Staircase :skull:](https://www.hackerrank.com/challenges/staircase/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #16**: [Birthday Cake Candles :birthday:](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #17**: [Breaking the Records :trophy:](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #18**: [Bon Appétit :shaved_ice:](https://www.hackerrank.com/challenges/bon-appetit/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #19**: [Cats and a Mouse :cat: :mouse:](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
-- [ ] **Challenge #20**: [The Hurdle Race :checkered_flag:](https://www.hackerrank.com/challenges/the-hurdle-race/problem) (HackerRank) | [Submit Challenge](https://airtable.com/shrcBaAcRwqxADDVN)
+- [x] **[Challenge #13](Advance/bigsum.js)**: [A Very Big Sum :raised_hands:](https://www.hackerrank.com/challenges/a-very-big-sum/problem) (HackerRank)
+- [x] **[Challenge #14](Advance/minus.js)**: [Plus Minus :arrow_lower_right:](https://www.hackerrank.com/challenges/plus-minus/problem) (HackerRank)
+- [x] **[Challenge #15](Advance/stair.js)**: [Staircase :skull:](https://www.hackerrank.com/challenges/staircase/problem) (HackerRank)
+- [x] **[Challenge #16](Advance/cake.js)**: [Birthday Cake Candles :birthday:](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) (HackerRank)
+- [x] **[Challenge #17](Advance/records.js)**: [Breaking the Records :trophy:](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) (HackerRank)
+- [x] **[Challenge #18](Advance/bonappetit.js)**: [Bon Appétit :shaved_ice:](https://www.hackerrank.com/challenges/bon-appetit/problem) (HackerRank)
+- [x] **[Challenge #19](Advance/catmouse.js)**: [Cats and a Mouse :cat: :mouse:](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) (HackerRank)
+- [x] **[Challenge #20](Advance/race.js)**: [The Hurdle Race :checkered_flag:](https://www.hackerrank.com/challenges/the-hurdle-race/problem) (HackerRank)
