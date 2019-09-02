@@ -23,7 +23,7 @@ Feel free to _Contribute_ with your own script with the programming language you
 - [x] **[Challenge #9](Intermediate/pig.js)**: [Pig Latin :pig:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin/) (freeCodeCamp)
 - [x] **[Challenge #10](Intermediate/dna.js)**: [DNA Pairing :syringe:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing/) (freeCodeCamp) 
 - [x] **[Challenge #11](Intermediate/html.js)**: [Convert HTML Entities :computer:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities/) (freeCodeCamp)
-- [ ] **[Challenge #12]()**: [Sum All Primes :warning:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes/) (freeCodeCamp)
+- [x] **[Challenge #12](Intermediate/prime.js)**: [Sum All Primes :warning:](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes/) (freeCodeCamp)
 
 # Advanced Challenges
 
@@ -37,3 +37,5 @@ Feel free to _Contribute_ with your own script with the programming language you
 - [x] **[Challenge #18](Advance/bonappetit.js)**: [Bon Appétit :shaved_ice:](https://www.hackerrank.com/challenges/bon-appetit/problem) (HackerRank)
 - [x] **[Challenge #19](Advance/catmouse.js)**: [Cats and a Mouse :cat: :mouse:](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) (HackerRank)
 - [x] **[Challenge #20](Advance/race.js)**: [The Hurdle Race :checkered_flag:](https://www.hackerrank.com/challenges/the-hurdle-race/problem) (HackerRank)
+
+FINISH! :confetti_ball: :balloon:
